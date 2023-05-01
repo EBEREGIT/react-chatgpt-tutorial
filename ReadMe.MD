@@ -12,7 +12,7 @@ Click [here]() to view the tutorial that give birth to this project
 
 ## Installation
 * Clone this repo `git clone https://github.com/EBEREGIT/react-chatgpt-tutorial`
-* * Navigate into the repo `cd react-chatgpt-tutorial`
+* Navigate into the repo `cd react-chatgpt-tutorial`
 * Install the dependencies ``npm install``
 * Start the local server ``npm run dev``
 
