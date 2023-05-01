@@ -1,6 +1,6 @@
 # React ChatGPT Tutorial
 
-This repository houses a chatbot project based on the ChatGPT `gpt-3.5-turbo` model.
+This repository houses a frontend chatbot project based on the ChatGPT `gpt-3.5-turbo` model.
 
 Click [here]() to view the tutorial that give birth to this project
 
